@@ -1,7 +1,7 @@
 <?php
 // Definindo os dados de conexão com o banco MySQL
 $host = "sql203.infinityfree.com";
-$banco = "if0_43414593_XXX";
+$banco = "if0_43414593_meu_banco";
 $usuario = "if0_43414593";
 $senha = "98QU5tOVRYEqU2Q";
 
